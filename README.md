@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**salozem/salozem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align = "center">
+<h2> Hi there 👋, my name is Salomón Zegarra</h2>
+<i> Software engineering student at Universidad Peruana de Ciencias Aplicadas </i>
+</div>
 
-Here are some ideas to get you started:
+---
+<div align = "center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,git)](https://skillicons.dev)
+</div>
+
+---
+
+<div align = "center">
+
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=docker,js,py,mysql)](https://skillicons.dev)
+
+</div>
+
+---
+<div align = "center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+</div>
+

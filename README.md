@@ -12,14 +12,14 @@
 <div align = "center">
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,git)]
+![My Skills](https://skillicons.dev/icons?i=html,css,cpp,git)
 </div>
 
 ---
 <div align = "center">
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=docker,js,py,mysql)]
+![My Skills](https://skillicons.dev/icons?i=docker,js,py,mysql)
 </div>
 
 ---

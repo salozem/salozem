@@ -28,7 +28,7 @@
 <div align = "center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-##### Contact me
+#### Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salozm/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/salozem) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salozm34@gmail.com)
 </div>
 

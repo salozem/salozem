@@ -16,12 +16,10 @@
 </div>
 
 ---
-
 <div align = "center">
 
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=docker,js,py,mysql)](https://skillicons.dev)
-
 </div>
 
 ---

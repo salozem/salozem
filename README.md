@@ -6,7 +6,7 @@
 <div align = "center">
 <h2> Hi there 👋, my name is Salomón Zegarra</h2>
 <i> Software engineering student at Universidad Peruana de Ciencias Aplicadas </i><br>
-<i>Intern at ESSAC</i>
+<i>TI Assistant at Engineering Services & Consulting</i>
 </div>
 
 ---
